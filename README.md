@@ -9,8 +9,11 @@ Internship related tasks like Topic Identification, Customizable Context Based S
 * [FRAMEWORK | PKE](https://github.com/boudinfl/pke)
 * [FRAMEWORK | rake-nltk](https://github.com/csurfer/rake-nltk)
 * [RESEARCH PAPER | (YAKE) A Text Feature Based Automatic Keyword Extraction Method for Single Documents](https://link.springer.com/content/pdf/10.1007%2F978-3-319-76941-7.pdf)
+* [RESEARCH PAPER | Keyphrase Extraction Using Knowledge Graphs](https://www.researchgate.net/publication/318857290_Keyphrase_Extraction_Using_Knowledge_Graphs)
 * [RESEARCH PAPER | Contextual sentiment text analysis](https://patents.google.com/patent/US20150286627A1/en)
 * [RESEARCH PAPER | A hybrid term–term relations analysis approach for topic detection](https://www.sciencedirect.com/science/article/pii/S0950705115004335)
+* [RESEARCH PAPER | Keyword Extraction Using Graph Centrality and WordNet](https://www.researchgate.net/publication/328735923_Keyword_Extraction_Using_Graph_Centrality_and_WordNet)
+* [RESEARCH PAPER | A Graph Based Keyword Extraction Model using Collective Node Weight](https://www.researchgate.net/publication/321793701_A_Graph_Based_Keyword_Extraction_Model_using_Collective_Node_Weight)
 * [FRAMEWORK PAPER | YAKE! Collection-Independent Automatic Keyword Extractor](https://repositorio.inesctec.pt/bitstream/123456789/7623/1/P-00N-NF5.pdf)
 * [SURVEY PAPER | Automatic Keyword Extraction for Text Summarization: A Survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.03242.pdf)
 * [SURVEY PAPER | An Overview of Graph-Based Keyword Extraction Methods and Approaches](https://hrcak.srce.hr/140857)
@@ -29,6 +32,7 @@ Internship related tasks like Topic Identification, Customizable Context Based S
 * [RESEARCH PAPER | Effective LSTMs for Target-Dependent Sentiment Classification](https://www.aclweb.org/anthology/C16-1311)
 * [RESEARCH PAPER | Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification](https://www.aclweb.org/anthology/P14-2009)
 * [RESEARCH PAPER | Sentiment Analysis: A tool for Rating Attribution to Content in Recommender Systems](http://ceur-ws.org/Vol-896/paper5.pdf)
+* [[RESEARCH PAPER | Aspect extraction for opinion mining with a deep convolutional neural network](https://www.sciencedirect.com/science/article/pii/S0950705116301721)
 
 ## Online Tools
 * [Google Cloud Entity Sentiment API](https://cloud.google.com/natural-language/docs/analyzing-entity-sentiment#language-classify-content-file-python)
@@ -36,8 +40,11 @@ Internship related tasks like Topic Identification, Customizable Context Based S
 
 ### Tasks
 - [ ] Topic Extraction
+- [ ] Topic context phrase extraction
 - [ ] Sentiment Analysis with extracted topic context
 - [ ] Customizing Sentiment Analysis Method
+
+
 
 
 
