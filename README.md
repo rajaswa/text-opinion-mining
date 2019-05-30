@@ -34,6 +34,7 @@ Internship related tasks like Topic Identification, Customizable Context Based S
 * [RESEARCH PAPER | Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification](https://www.aclweb.org/anthology/P14-2009)
 * [RESEARCH PAPER | Sentiment Analysis: A tool for Rating Attribution to Content in Recommender Systems](http://ceur-ws.org/Vol-896/paper5.pdf)
 * [RESEARCH PAPER | Aspect extraction for opinion mining with a deep convolutional neural network](https://www.sciencedirect.com/science/article/pii/S0950705116301721)
+* [READING MATERIAL | Lexical Chain Annotation Guidelines](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/lexical-chains/guidelines-en--v1-0.pdf)
 * [BLOG | Context Analysis in NLP: Why It’s Valuable and How It’s Done](https://www.lexalytics.com/lexablog/context-analysis-nlp)
 
 ## Online Tools
