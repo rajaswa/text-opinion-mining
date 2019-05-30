@@ -8,6 +8,7 @@ Internship related tasks like Topic Identification, Customizable Context Based S
 * [FRAMEWORK | YAKE](https://github.com/LIAAD/yake)
 * [FRAMEWORK | PKE](https://github.com/boudinfl/pke)
 * [FRAMEWORK | rake-nltk](https://github.com/csurfer/rake-nltk)
+* [FRAMEWORK | TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html#noun-phrase-extraction)
 * [RESEARCH PAPER | (YAKE) A Text Feature Based Automatic Keyword Extraction Method for Single Documents](https://link.springer.com/content/pdf/10.1007%2F978-3-319-76941-7.pdf)
 * [RESEARCH PAPER | Keyphrase Extraction Using Knowledge Graphs](https://www.researchgate.net/publication/318857290_Keyphrase_Extraction_Using_Knowledge_Graphs)
 * [RESEARCH PAPER | Contextual sentiment text analysis](https://patents.google.com/patent/US20150286627A1/en)
@@ -32,7 +33,8 @@ Internship related tasks like Topic Identification, Customizable Context Based S
 * [RESEARCH PAPER | Effective LSTMs for Target-Dependent Sentiment Classification](https://www.aclweb.org/anthology/C16-1311)
 * [RESEARCH PAPER | Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification](https://www.aclweb.org/anthology/P14-2009)
 * [RESEARCH PAPER | Sentiment Analysis: A tool for Rating Attribution to Content in Recommender Systems](http://ceur-ws.org/Vol-896/paper5.pdf)
-* [[RESEARCH PAPER | Aspect extraction for opinion mining with a deep convolutional neural network](https://www.sciencedirect.com/science/article/pii/S0950705116301721)
+* [RESEARCH PAPER | Aspect extraction for opinion mining with a deep convolutional neural network](https://www.sciencedirect.com/science/article/pii/S0950705116301721)
+* [BLOG | Context Analysis in NLP: Why It’s Valuable and How It’s Done](https://www.lexalytics.com/lexablog/context-analysis-nlp)
 
 ## Online Tools
 * [Google Cloud Entity Sentiment API](https://cloud.google.com/natural-language/docs/analyzing-entity-sentiment#language-classify-content-file-python)
