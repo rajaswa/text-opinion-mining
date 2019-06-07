@@ -1,5 +1,5 @@
 # Summer-Internship-IIT-Bombay-2019
-Internship related tasks like Topic Identification, Customizable Context Based Sentiment Classification &amp; Entity Extraction
+Internship related tasks like Topic Identification, Customizable Context Based Sentiment Classification &amp; Entity & Theme Extraction
 
 ## Keyword / Topic Extraction
 
@@ -12,7 +12,7 @@ Internship related tasks like Topic Identification, Customizable Context Based S
 * [RESEARCH PAPER | (YAKE) A Text Feature Based Automatic Keyword Extraction Method for Single Documents](https://link.springer.com/content/pdf/10.1007%2F978-3-319-76941-7.pdf)
 * [RESEARCH PAPER | Keyphrase Extraction Using Knowledge Graphs](https://www.researchgate.net/publication/318857290_Keyphrase_Extraction_Using_Knowledge_Graphs)
 * [RESEARCH PAPER | Contextual sentiment text analysis](https://patents.google.com/patent/US20150286627A1/en)
-* [RESEARCH PAPER | A hybrid term–term relations analysis approach for topic detection](https://www.sciencedirect.com/science/article/pii/S0950705115004335)
+* [RESEARCH PAPER | A hybrid termâ€“term relations analysis approach for topic detection](https://www.sciencedirect.com/science/article/pii/S0950705115004335)
 * [RESEARCH PAPER | Keyword Extraction Using Graph Centrality and WordNet](https://www.researchgate.net/publication/328735923_Keyword_Extraction_Using_Graph_Centrality_and_WordNet)
 * [RESEARCH PAPER | A Graph Based Keyword Extraction Model using Collective Node Weight](https://www.researchgate.net/publication/321793701_A_Graph_Based_Keyword_Extraction_Model_using_Collective_Node_Weight)
 * [FRAMEWORK PAPER | YAKE! Collection-Independent Automatic Keyword Extractor](https://repositorio.inesctec.pt/bitstream/123456789/7623/1/P-00N-NF5.pdf)
@@ -35,7 +35,7 @@ Internship related tasks like Topic Identification, Customizable Context Based S
 * [RESEARCH PAPER | Sentiment Analysis: A tool for Rating Attribution to Content in Recommender Systems](http://ceur-ws.org/Vol-896/paper5.pdf)
 * [RESEARCH PAPER | Aspect extraction for opinion mining with a deep convolutional neural network](https://www.sciencedirect.com/science/article/pii/S0950705116301721)
 * [READING MATERIAL | Lexical Chain Annotation Guidelines](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/lexical-chains/guidelines-en--v1-0.pdf)
-* [BLOG | Context Analysis in NLP: Why It’s Valuable and How It’s Done](https://www.lexalytics.com/lexablog/context-analysis-nlp)
+* [BLOG | Context Analysis in NLP: Why Itâ€™s Valuable and How Itâ€™s Done](https://www.lexalytics.com/lexablog/context-analysis-nlp)
 
 ## Online Tools
 * [Google Cloud Entity Sentiment API](https://cloud.google.com/natural-language/docs/analyzing-entity-sentiment#language-classify-content-file-python)
